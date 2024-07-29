@@ -42,7 +42,7 @@ class _LoginState extends State<Login> {
         child: Column(
           children: [
             Container(
-              height: 200,
+              height: 400,
               width: double.infinity,
               decoration: const BoxDecoration(
                   color: Colors.amber,
